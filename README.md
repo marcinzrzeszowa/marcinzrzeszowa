@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcinzrzeszowa
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Web Development using Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java language
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me marciznrzeszowa@gmail.com
